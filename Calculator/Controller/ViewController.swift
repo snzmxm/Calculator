@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     // 7 - создали мы МайнСтэкВью теперь его нам нужно тут расположить
-    private let mainStackView = MainStackViewTwo()
+    private let mainStackView = MainStackView()
 
     //18 - экземляр нашей модели
     private let calculationModel = CalculationModel()
