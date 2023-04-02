@@ -8,10 +8,10 @@
 import Foundation
 // 9 - оперпции
 enum Operations: String {
-
-case noAction = ""
-case addition = "+"
-case substraction = "-"
-case multyplication = "*"
-case division = "/"
+    
+    case noAction = ""
+    case addition = "+"
+    case substraction = "-"
+    case multyplication = "*"
+    case division = "/"
 }

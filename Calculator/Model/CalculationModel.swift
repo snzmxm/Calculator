@@ -173,12 +173,6 @@ class CalculationModel {
         if !currentNumber.contains(".") {
             currentNumber += currentNumber != "" ? "." : "0."
         }
-        //это выражение запишем тернарником
-//        if currentNumber != "" {
-//            currentNumber += "."
-//        } else {
-//            currentNumber += "0."
-//        }
     }
 
     //27 - операции с процентами
